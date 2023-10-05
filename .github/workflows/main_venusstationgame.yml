@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'VenusStationGame'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21799E23D22848E6B4BD2F53B188EF90 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_648C0B7DD3BE415EABA0FAB44CCFB37A }}
           package: .
